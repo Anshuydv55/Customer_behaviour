@@ -75,13 +75,14 @@ Performed SQL queries to explore customer shopping behaviour, purchasing trends,
 **Step 1:** Clone the repository.
 
 
-[git clone YOUR_REPOSITORY_URL](https://github.com/Anshuydv55/Customer_behaviour/edit/main)
+[[git clone YOUR_REPOSITORY_URL](https://github.com/Anshuydv55/Customer_behaviour/edit/main)](https://github.com/Anshuydv55/Customer_behaviour/tree/main)
 
 
 **Step 2:** Install the required libraries.
 
 
 pip install pandas sqlalchemy pymysql jupyter
+
 
 **Step 3:** Configure your MySQL database connection.
 
